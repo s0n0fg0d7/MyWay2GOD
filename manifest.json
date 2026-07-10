@@ -1,0 +1,14 @@
+{
+  "name": "MyWay2GOD",
+  "short_name": "MyWay2GOD",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://streamlit.io/images/brand/streamlit-mark-color.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
